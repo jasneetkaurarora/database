@@ -1,0 +1,234 @@
+------------------------------------------------------------------
+Interactive SSH Connection established to R1
+------------------------------------------------------------------
+Hostname :R1
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.2
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R3,R2,R5,R4,R6
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+------------------------------------------------------------------
+Interactive SSH Connection established to R2
+------------------------------------------------------------------
+Hostname :R2
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.3
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R1,R3,R5,R4,R6
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+------------------------------------------------------------------
+Interactive SSH Connection established to R3
+------------------------------------------------------------------
+Hostname :R3
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.4
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R1,R2,R5,R4,R6
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+------------------------------------------------------------------
+Interactive SSH Connection established to R4
+------------------------------------------------------------------
+Hostname :R4
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.5
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R1,R3,R2,R5,R6
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+------------------------------------------------------------------
+Interactive SSH Connection established to R5
+------------------------------------------------------------------
+Hostname :R5
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.6
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R1,R3,R2,R4,R6
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+------------------------------------------------------------------
+Interactive SSH Connection established to R6
+------------------------------------------------------------------
+Hostname :R6
+Hardware version : Cisco 2691
+Operating system : IOS
+Operating system version : 12.4(15)T1
+Management IP address : 10.0.0.7
+Password : root
+Slot name   : Slot 0
+Slot status : C2691 Mother board 2FE(TX)-3W Port adapter, 6 ports
+
+Slot name   : 	WIC Slot 0
+Slot status : Serial 2T (12in1)
+
+Connected neighbors are : R1,R3,R2,R5,R4
+Interface status and description
+********************************
+
+Interface name is :Fa0/0
+Interface status is :up
+Interface protocol is :up
+Interface description is :mgmt interface
+
+Interface name is :Se0/0
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Fa0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
+Interface name is :Se0/1
+Interface status is :admin down
+Interface protocol is :down
+Interface description is :test
+
